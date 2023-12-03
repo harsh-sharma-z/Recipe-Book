@@ -2,3 +2,6 @@ img {
   height: auto;
   max-width: 35%;
 }
+a {
+  cursor: pointer;
+}
